@@ -1,0 +1,714 @@
+vehicle_maintence_scheduler/image.png
+output-
+{
+    "generatedAt": "2026-05-02T05:50:00.653Z",
+    "totalDepots": 5,
+    "totalVehiclesScheduled": 134,
+    "allocations": [
+        {
+            "depotId": 1,
+            "selectedTasks": [
+                {
+                    "vehicleId": "eb687603-1595-4031-b366-9f3d876529f2",
+                    "duration": 2,
+                    "impact": 2
+                },
+                {
+                    "vehicleId": "45fbd456-4024-40fa-bfa1-1c0176735337",
+                    "duration": 2,
+                    "impact": 10
+                },
+                {
+                    "vehicleId": "269ad5ca-0bbf-4037-a1ef-61c8fde16c98",
+                    "duration": 5,
+                    "impact": 9
+                },
+                {
+                    "vehicleId": "1514e6b1-b9e1-481e-a223-f140b148c9a2",
+                    "duration": 1,
+                    "impact": 10
+                },
+                {
+                    "vehicleId": "3aecbc60-4c96-4618-91dd-ce6878831ae0",
+                    "duration": 6,
+                    "impact": 8
+                },
+                {
+                    "vehicleId": "6ccd53f9-5712-4d02-a55e-1c049e5b2da9",
+                    "duration": 5,
+                    "impact": 9
+                },
+                {
+                    "vehicleId": "6df5d16c-e07a-4b29-90d9-bd51c53e4d94",
+                    "duration": 3,
+                    "impact": 10
+                },
+                {
+                    "vehicleId": "50055b01-9953-4675-92f2-f927cd35a5f5",
+                    "duration": 3,
+                    "impact": 4
+                },
+                {
+                    "vehicleId": "db59d49b-a2f3-479c-acbd-4a5a550a4725",
+                    "duration": 2,
+                    "impact": 3
+                },
+                {
+                    "vehicleId": "c51aee3c-3e4c-405b-a70c-c8342e647775",
+                    "duration": 5,
+                    "impact": 8
+                },
+                {
+                    "vehicleId": "f0f4a0c2-7774-479e-912b-ca832e2433c4",
+                    "duration": 7,
+                    "impact": 10
+                },
+                {
+                    "vehicleId": "eb11f11f-bf4b-4e64-9c17-570896e98912",
+                    "duration": 2,
+                    "impact": 3
+                },
+                {
+                    "vehicleId": "04affcac-3267-4a79-b137-55d5af598a46",
+                    "duration": 3,
+                    "impact": 5
+                },
+                {
+                    "vehicleId": "137edd66-c144-44d5-b2f6-76a24a83992d",
+                    "duration": 5,
+                    "impact": 10
+                },
+                {
+                    "vehicleId": "0f5ecfbe-bfdd-469c-912b-fd789ced2291",
+                    "duration": 1,
+                    "impact": 7
+                },
+                {
+                    "vehicleId": "6b703407-02bb-410e-a48b-936676298740",
+                    "duration": 3,
+                    "impact": 6
+                },
+                {
+                    "vehicleId": "312a2535-795c-408f-8404-90330173b583",
+                    "duration": 4,
+                    "impact": 9
+                },
+                {
+                    "vehicleId": "a7bac4fc-8eb3-4a59-a527-48c0e84b0e1e",
+                    "duration": 1,
+                    "impact": 3
+                }
+            ],
+            "totalDuration": 60,
+            "totalImpact": 126
+        },
+        {
+            "depotId": 2,
+            "selectedTasks": [
+                {
+                    "vehicleId": "eb687603-1595-4031-b366-9f3d876529f2",
+                    "duration": 2,
+                    "impact": 2
+                },
+                {
+                    "vehicleId": "45fbd456-4024-40fa-bfa1-1c0176735337",
+                    "duration": 2,
+                    "impact": 10
+                },
+                {
+                    "vehicleId": "f5c4ce35-dd4b-4891-985a-3b0d34b0d1db",
+                    "duration": 5,
+                    "impact": 5
+                },
+                {
+                    "vehicleId": "269ad5ca-0bbf-4037-a1ef-61c8fde16c98",
+                    "duration": 5,
+                    "impact": 9
+                },
+                {
+                    "vehicleId": "1514e6b1-b9e1-481e-a223-f140b148c9a2",
+                    "duration": 1,
+                    "impact": 10
+                },
+                {
+                    "vehicleId": "3aecbc60-4c96-4618-91dd-ce6878831ae0",
+                    "duration": 6,
+                    "impact": 8
+                },
+                {
+                    "vehicleId": "6ccd53f9-5712-4d02-a55e-1c049e5b2da9",
+                    "duration": 5,
+                    "impact": 9
+                },
+                {
+                    "vehicleId": "06fe8978-5f5e-4f8f-822a-dcfaa72907dc",
+                    "duration": 6,
+                    "impact": 3
+                },
+                {
+                    "vehicleId": "9471eaa7-d885-4cba-93a5-33d66a2b995a",
+                    "duration": 4,
+                    "impact": 3
+                },
+                {
+                    "vehicleId": "1160683b-dd2e-428e-98b0-a2d0ce29086c",
+                    "duration": 2,
+                    "impact": 2
+                },
+                {
+                    "vehicleId": "58b97335-e9a6-4c66-b42f-b46abf3f2ec4",
+                    "duration": 8,
+                    "impact": 8
+                },
+                {
+                    "vehicleId": "6df5d16c-e07a-4b29-90d9-bd51c53e4d94",
+                    "duration": 3,
+                    "impact": 10
+                },
+                {
+                    "vehicleId": "50055b01-9953-4675-92f2-f927cd35a5f5",
+                    "duration": 3,
+                    "impact": 4
+                },
+                {
+                    "vehicleId": "b16520ec-7ad9-4196-8d34-a1f45dd6ed36",
+                    "duration": 8,
+                    "impact": 7
+                },
+                {
+                    "vehicleId": "10f34cd0-2f86-4338-be58-790e943bd3a1",
+                    "duration": 8,
+                    "impact": 6
+                },
+                {
+                    "vehicleId": "db59d49b-a2f3-479c-acbd-4a5a550a4725",
+                    "duration": 2,
+                    "impact": 3
+                },
+                {
+                    "vehicleId": "c51aee3c-3e4c-405b-a70c-c8342e647775",
+                    "duration": 5,
+                    "impact": 8
+                },
+                {
+                    "vehicleId": "f0f4a0c2-7774-479e-912b-ca832e2433c4",
+                    "duration": 7,
+                    "impact": 10
+                },
+                {
+                    "vehicleId": "b3350955-a936-4159-bf7d-7a77a5b41606",
+                    "duration": 6,
+                    "impact": 6
+                },
+                {
+                    "vehicleId": "eb11f11f-bf4b-4e64-9c17-570896e98912",
+                    "duration": 2,
+                    "impact": 3
+                },
+                {
+                    "vehicleId": "04affcac-3267-4a79-b137-55d5af598a46",
+                    "duration": 3,
+                    "impact": 5
+                },
+                {
+                    "vehicleId": "137edd66-c144-44d5-b2f6-76a24a83992d",
+                    "duration": 5,
+                    "impact": 10
+                },
+                {
+                    "vehicleId": "0f5ecfbe-bfdd-469c-912b-fd789ced2291",
+                    "duration": 1,
+                    "impact": 7
+                },
+                {
+                    "vehicleId": "8000ee6d-0e7f-4787-8dda-c116dfc9321e",
+                    "duration": 6,
+                    "impact": 3
+                },
+                {
+                    "vehicleId": "6b703407-02bb-410e-a48b-936676298740",
+                    "duration": 3,
+                    "impact": 6
+                },
+                {
+                    "vehicleId": "2aa2bd73-9220-4dbc-b44c-0d23caa7ffc6",
+                    "duration": 6,
+                    "impact": 4
+                },
+                {
+                    "vehicleId": "312a2535-795c-408f-8404-90330173b583",
+                    "duration": 4,
+                    "impact": 9
+                },
+                {
+                    "vehicleId": "93fdb532-7091-4bde-ba33-b378719dd7c1",
+                    "duration": 8,
+                    "impact": 7
+                },
+                {
+                    "vehicleId": "9d7bd71b-011d-42b2-91d2-c507486e4dea",
+                    "duration": 6,
+                    "impact": 2
+                },
+                {
+                    "vehicleId": "a7bac4fc-8eb3-4a59-a527-48c0e84b0e1e",
+                    "duration": 1,
+                    "impact": 3
+                }
+            ],
+            "totalDuration": 133,
+            "totalImpact": 182
+        },
+        {
+            "depotId": 3,
+            "selectedTasks": [
+                {
+                    "vehicleId": "eb687603-1595-4031-b366-9f3d876529f2",
+                    "duration": 2,
+                    "impact": 2
+                },
+                {
+                    "vehicleId": "45fbd456-4024-40fa-bfa1-1c0176735337",
+                    "duration": 2,
+                    "impact": 10
+                },
+                {
+                    "vehicleId": "f5c4ce35-dd4b-4891-985a-3b0d34b0d1db",
+                    "duration": 5,
+                    "impact": 5
+                },
+                {
+                    "vehicleId": "269ad5ca-0bbf-4037-a1ef-61c8fde16c98",
+                    "duration": 5,
+                    "impact": 9
+                },
+                {
+                    "vehicleId": "1514e6b1-b9e1-481e-a223-f140b148c9a2",
+                    "duration": 1,
+                    "impact": 10
+                },
+                {
+                    "vehicleId": "3aecbc60-4c96-4618-91dd-ce6878831ae0",
+                    "duration": 6,
+                    "impact": 8
+                },
+                {
+                    "vehicleId": "6ccd53f9-5712-4d02-a55e-1c049e5b2da9",
+                    "duration": 5,
+                    "impact": 9
+                },
+                {
+                    "vehicleId": "06fe8978-5f5e-4f8f-822a-dcfaa72907dc",
+                    "duration": 6,
+                    "impact": 3
+                },
+                {
+                    "vehicleId": "9471eaa7-d885-4cba-93a5-33d66a2b995a",
+                    "duration": 4,
+                    "impact": 3
+                },
+                {
+                    "vehicleId": "1160683b-dd2e-428e-98b0-a2d0ce29086c",
+                    "duration": 2,
+                    "impact": 2
+                },
+                {
+                    "vehicleId": "58b97335-e9a6-4c66-b42f-b46abf3f2ec4",
+                    "duration": 8,
+                    "impact": 8
+                },
+                {
+                    "vehicleId": "6df5d16c-e07a-4b29-90d9-bd51c53e4d94",
+                    "duration": 3,
+                    "impact": 10
+                },
+                {
+                    "vehicleId": "50055b01-9953-4675-92f2-f927cd35a5f5",
+                    "duration": 3,
+                    "impact": 4
+                },
+                {
+                    "vehicleId": "b16520ec-7ad9-4196-8d34-a1f45dd6ed36",
+                    "duration": 8,
+                    "impact": 7
+                },
+                {
+                    "vehicleId": "10f34cd0-2f86-4338-be58-790e943bd3a1",
+                    "duration": 8,
+                    "impact": 6
+                },
+                {
+                    "vehicleId": "db59d49b-a2f3-479c-acbd-4a5a550a4725",
+                    "duration": 2,
+                    "impact": 3
+                },
+                {
+                    "vehicleId": "c51aee3c-3e4c-405b-a70c-c8342e647775",
+                    "duration": 5,
+                    "impact": 8
+                },
+                {
+                    "vehicleId": "f0f4a0c2-7774-479e-912b-ca832e2433c4",
+                    "duration": 7,
+                    "impact": 10
+                },
+                {
+                    "vehicleId": "b3350955-a936-4159-bf7d-7a77a5b41606",
+                    "duration": 6,
+                    "impact": 6
+                },
+                {
+                    "vehicleId": "5de95acd-4331-439b-bbbd-07713668e9ff",
+                    "duration": 5,
+                    "impact": 1
+                },
+                {
+                    "vehicleId": "eb11f11f-bf4b-4e64-9c17-570896e98912",
+                    "duration": 2,
+                    "impact": 3
+                },
+                {
+                    "vehicleId": "04affcac-3267-4a79-b137-55d5af598a46",
+                    "duration": 3,
+                    "impact": 5
+                },
+                {
+                    "vehicleId": "137edd66-c144-44d5-b2f6-76a24a83992d",
+                    "duration": 5,
+                    "impact": 10
+                },
+                {
+                    "vehicleId": "0f5ecfbe-bfdd-469c-912b-fd789ced2291",
+                    "duration": 1,
+                    "impact": 7
+                },
+                {
+                    "vehicleId": "8000ee6d-0e7f-4787-8dda-c116dfc9321e",
+                    "duration": 6,
+                    "impact": 3
+                },
+                {
+                    "vehicleId": "6b703407-02bb-410e-a48b-936676298740",
+                    "duration": 3,
+                    "impact": 6
+                },
+                {
+                    "vehicleId": "2aa2bd73-9220-4dbc-b44c-0d23caa7ffc6",
+                    "duration": 6,
+                    "impact": 4
+                },
+                {
+                    "vehicleId": "312a2535-795c-408f-8404-90330173b583",
+                    "duration": 4,
+                    "impact": 9
+                },
+                {
+                    "vehicleId": "93fdb532-7091-4bde-ba33-b378719dd7c1",
+                    "duration": 8,
+                    "impact": 7
+                },
+                {
+                    "vehicleId": "9d7bd71b-011d-42b2-91d2-c507486e4dea",
+                    "duration": 6,
+                    "impact": 2
+                },
+                {
+                    "vehicleId": "a7bac4fc-8eb3-4a59-a527-48c0e84b0e1e",
+                    "duration": 1,
+                    "impact": 3
+                }
+            ],
+            "totalDuration": 138,
+            "totalImpact": 183
+        },
+        {
+            "depotId": 4,
+            "selectedTasks": [
+                {
+                    "vehicleId": "eb687603-1595-4031-b366-9f3d876529f2",
+                    "duration": 2,
+                    "impact": 2
+                },
+                {
+                    "vehicleId": "45fbd456-4024-40fa-bfa1-1c0176735337",
+                    "duration": 2,
+                    "impact": 10
+                },
+                {
+                    "vehicleId": "f5c4ce35-dd4b-4891-985a-3b0d34b0d1db",
+                    "duration": 5,
+                    "impact": 5
+                },
+                {
+                    "vehicleId": "269ad5ca-0bbf-4037-a1ef-61c8fde16c98",
+                    "duration": 5,
+                    "impact": 9
+                },
+                {
+                    "vehicleId": "1514e6b1-b9e1-481e-a223-f140b148c9a2",
+                    "duration": 1,
+                    "impact": 10
+                },
+                {
+                    "vehicleId": "3aecbc60-4c96-4618-91dd-ce6878831ae0",
+                    "duration": 6,
+                    "impact": 8
+                },
+                {
+                    "vehicleId": "6ccd53f9-5712-4d02-a55e-1c049e5b2da9",
+                    "duration": 5,
+                    "impact": 9
+                },
+                {
+                    "vehicleId": "1160683b-dd2e-428e-98b0-a2d0ce29086c",
+                    "duration": 2,
+                    "impact": 2
+                },
+                {
+                    "vehicleId": "58b97335-e9a6-4c66-b42f-b46abf3f2ec4",
+                    "duration": 8,
+                    "impact": 8
+                },
+                {
+                    "vehicleId": "6df5d16c-e07a-4b29-90d9-bd51c53e4d94",
+                    "duration": 3,
+                    "impact": 10
+                },
+                {
+                    "vehicleId": "50055b01-9953-4675-92f2-f927cd35a5f5",
+                    "duration": 3,
+                    "impact": 4
+                },
+                {
+                    "vehicleId": "b16520ec-7ad9-4196-8d34-a1f45dd6ed36",
+                    "duration": 8,
+                    "impact": 7
+                },
+                {
+                    "vehicleId": "db59d49b-a2f3-479c-acbd-4a5a550a4725",
+                    "duration": 2,
+                    "impact": 3
+                },
+                {
+                    "vehicleId": "c51aee3c-3e4c-405b-a70c-c8342e647775",
+                    "duration": 5,
+                    "impact": 8
+                },
+                {
+                    "vehicleId": "f0f4a0c2-7774-479e-912b-ca832e2433c4",
+                    "duration": 7,
+                    "impact": 10
+                },
+                {
+                    "vehicleId": "b3350955-a936-4159-bf7d-7a77a5b41606",
+                    "duration": 6,
+                    "impact": 6
+                },
+                {
+                    "vehicleId": "eb11f11f-bf4b-4e64-9c17-570896e98912",
+                    "duration": 2,
+                    "impact": 3
+                },
+                {
+                    "vehicleId": "04affcac-3267-4a79-b137-55d5af598a46",
+                    "duration": 3,
+                    "impact": 5
+                },
+                {
+                    "vehicleId": "137edd66-c144-44d5-b2f6-76a24a83992d",
+                    "duration": 5,
+                    "impact": 10
+                },
+                {
+                    "vehicleId": "0f5ecfbe-bfdd-469c-912b-fd789ced2291",
+                    "duration": 1,
+                    "impact": 7
+                },
+                {
+                    "vehicleId": "6b703407-02bb-410e-a48b-936676298740",
+                    "duration": 3,
+                    "impact": 6
+                },
+                {
+                    "vehicleId": "312a2535-795c-408f-8404-90330173b583",
+                    "duration": 4,
+                    "impact": 9
+                },
+                {
+                    "vehicleId": "93fdb532-7091-4bde-ba33-b378719dd7c1",
+                    "duration": 8,
+                    "impact": 7
+                },
+                {
+                    "vehicleId": "a7bac4fc-8eb3-4a59-a527-48c0e84b0e1e",
+                    "duration": 1,
+                    "impact": 3
+                }
+            ],
+            "totalDuration": 97,
+            "totalImpact": 161
+        },
+        {
+            "depotId": 5,
+            "selectedTasks": [
+                {
+                    "vehicleId": "eb687603-1595-4031-b366-9f3d876529f2",
+                    "duration": 2,
+                    "impact": 2
+                },
+                {
+                    "vehicleId": "45fbd456-4024-40fa-bfa1-1c0176735337",
+                    "duration": 2,
+                    "impact": 10
+                },
+                {
+                    "vehicleId": "f5c4ce35-dd4b-4891-985a-3b0d34b0d1db",
+                    "duration": 5,
+                    "impact": 5
+                },
+                {
+                    "vehicleId": "269ad5ca-0bbf-4037-a1ef-61c8fde16c98",
+                    "duration": 5,
+                    "impact": 9
+                },
+                {
+                    "vehicleId": "1514e6b1-b9e1-481e-a223-f140b148c9a2",
+                    "duration": 1,
+                    "impact": 10
+                },
+                {
+                    "vehicleId": "3aecbc60-4c96-4618-91dd-ce6878831ae0",
+                    "duration": 6,
+                    "impact": 8
+                },
+                {
+                    "vehicleId": "6ccd53f9-5712-4d02-a55e-1c049e5b2da9",
+                    "duration": 5,
+                    "impact": 9
+                },
+                {
+                    "vehicleId": "06fe8978-5f5e-4f8f-822a-dcfaa72907dc",
+                    "duration": 6,
+                    "impact": 3
+                },
+                {
+                    "vehicleId": "9471eaa7-d885-4cba-93a5-33d66a2b995a",
+                    "duration": 4,
+                    "impact": 3
+                },
+                {
+                    "vehicleId": "1160683b-dd2e-428e-98b0-a2d0ce29086c",
+                    "duration": 2,
+                    "impact": 2
+                },
+                {
+                    "vehicleId": "58b97335-e9a6-4c66-b42f-b46abf3f2ec4",
+                    "duration": 8,
+                    "impact": 8
+                },
+                {
+                    "vehicleId": "6df5d16c-e07a-4b29-90d9-bd51c53e4d94",
+                    "duration": 3,
+                    "impact": 10
+                },
+                {
+                    "vehicleId": "50055b01-9953-4675-92f2-f927cd35a5f5",
+                    "duration": 3,
+                    "impact": 4
+                },
+                {
+                    "vehicleId": "b16520ec-7ad9-4196-8d34-a1f45dd6ed36",
+                    "duration": 8,
+                    "impact": 7
+                },
+                {
+                    "vehicleId": "10f34cd0-2f86-4338-be58-790e943bd3a1",
+                    "duration": 8,
+                    "impact": 6
+                },
+                {
+                    "vehicleId": "db59d49b-a2f3-479c-acbd-4a5a550a4725",
+                    "duration": 2,
+                    "impact": 3
+                },
+                {
+                    "vehicleId": "c51aee3c-3e4c-405b-a70c-c8342e647775",
+                    "duration": 5,
+                    "impact": 8
+                },
+                {
+                    "vehicleId": "f0f4a0c2-7774-479e-912b-ca832e2433c4",
+                    "duration": 7,
+                    "impact": 10
+                },
+                {
+                    "vehicleId": "b3350955-a936-4159-bf7d-7a77a5b41606",
+                    "duration": 6,
+                    "impact": 6
+                },
+                {
+                    "vehicleId": "5de95acd-4331-439b-bbbd-07713668e9ff",
+                    "duration": 5,
+                    "impact": 1
+                },
+                {
+                    "vehicleId": "eb11f11f-bf4b-4e64-9c17-570896e98912",
+                    "duration": 2,
+                    "impact": 3
+                },
+                {
+                    "vehicleId": "04affcac-3267-4a79-b137-55d5af598a46",
+                    "duration": 3,
+                    "impact": 5
+                },
+                {
+                    "vehicleId": "137edd66-c144-44d5-b2f6-76a24a83992d",
+                    "duration": 5,
+                    "impact": 10
+                },
+                {
+                    "vehicleId": "0f5ecfbe-bfdd-469c-912b-fd789ced2291",
+                    "duration": 1,
+                    "impact": 7
+                },
+                {
+                    "vehicleId": "8000ee6d-0e7f-4787-8dda-c116dfc9321e",
+                    "duration": 6,
+                    "impact": 3
+                },
+                {
+                    "vehicleId": "6b703407-02bb-410e-a48b-936676298740",
+                    "duration": 3,
+                    "impact": 6
+                },
+                {
+                    "vehicleId": "2aa2bd73-9220-4dbc-b44c-0d23caa7ffc6",
+                    "duration": 6,
+                    "impact": 4
+                },
+                {
+                    "vehicleId": "312a2535-795c-408f-8404-90330173b583",
+                    "duration": 4,
+                    "impact": 9
+                },
+                {
+                    "vehicleId": "93fdb532-7091-4bde-ba33-b378719dd7c1",
+                    "duration": 8,
+                    "impact": 7
+                },
+                {
+                    "vehicleId": "9d7bd71b-011d-42b2-91d2-c507486e4dea",
+                    "duration": 6,
+                    "impact": 2
+                },
+                {
+                    "vehicleId": "a7bac4fc-8eb3-4a59-a527-48c0e84b0e1e",
+                    "duration": 1,
+                    "impact": 3
+                }
+            ],
+            "totalDuration": 138,
+            "totalImpact": 183
+        }
+    ]
+}
