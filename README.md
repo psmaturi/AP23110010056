@@ -12,4 +12,4 @@ A system design and implementation project focused on handling massive data scal
 * **System Design**: Includes a detailed architectural breakdown covering REST API design, PostgreSQL query optimization (Composite Indexing), Redis caching strategies, and reliable worker-queue (BullMQ) patterns.
 * **Stream Processing**: Includes a working Node.js implementation (`stage6.js`) that uses a highly efficient **Priority Min-Heap** algorithm to process and filter continuous notification streams by priority and timestamp in `O(N log K)` time.
 
-Both projects have been thoroughly cleaned, formatted, and optimized for academic submission.
+
