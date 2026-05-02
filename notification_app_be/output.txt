@@ -1,0 +1,70 @@
+C:\Users\pardh\Desktop\New folder> cd campus-notifications
+PS C:\Users\pardh\Desktop\New folder\campus-notifications> node stage6.js      
+Mock API Server running on port 8080...
+Fetching notification stream...
+Received 50 notifications. Processing dynamically...
+{
+  "notifications": [
+    {
+      "ID": "evt_1042",
+      "Type": "Placement",
+      "Message": "Campus Update: Event Info",
+      "Timestamp": "2026-05-02 09:18:32"
+    },
+    {
+      "ID": "evt_1028",
+      "Type": "Placement",
+      "Message": "Campus Update: Placement Info",
+      "Timestamp": "2026-05-02 03:54:43"
+    },
+    {
+      "ID": "evt_1034",
+      "Type": "Placement",
+      "Message": "Campus Update: Placement Info",
+      "Timestamp": "2026-05-02 03:19:47"
+    },
+    {
+      "ID": "evt_1043",
+      "Type": "Placement",
+      "Message": "Campus Update: Placement Info",
+      "Timestamp": "2026-05-02 00:48:49"
+    },
+    {
+      "ID": "evt_1040",
+      "Type": "Placement",
+      "Message": "Campus Update: Event Info",
+      "Timestamp": "2026-05-01 16:03:16"
+    },
+    {
+      "ID": "evt_1015",
+      "Type": "Placement",
+      "Message": "Campus Update: Result Info",
+      "Timestamp": "2026-05-01 15:55:52"
+    },
+    {
+      "ID": "evt_1021",
+      "Type": "Placement",
+      "Message": "Campus Update: Result Info",
+      "Timestamp": "2026-05-01 15:28:41"
+    },
+    {
+      "ID": "evt_1004",
+      "Type": "Placement",
+      "Message": "Campus Update: Placement Info",
+      "Timestamp": "2026-05-01 12:07:37"
+    },
+    {
+      "ID": "evt_1027",
+      "Type": "Placement",
+      "Message": "Campus Update: Result Info",
+      "Timestamp": "2026-05-01 09:41:43"
+    },
+    {
+      "ID": "evt_1023",
+      "Type": "Placement",
+      "Message": "Campus Update: Result Info",
+      "Timestamp": "2026-05-01 07:22:51"
+    }
+  ]
+}
+PS C:\Users\pardh\Desktop\New folder\campus-notifications>
