@@ -1,4 +1,4 @@
-# Microservices Architecture Assignment
+# AFFORD Backend Assesment 
 
 This repository contains two distinct microservice projects developed as part of a comprehensive backend engineering assignment. Both projects focus on scalability, algorithmic efficiency, and production-ready system design.
 
